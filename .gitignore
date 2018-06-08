@@ -5,3 +5,5 @@ ComputerVision/Keras MNIST/logs/
 ComputerVision/Keras Unsupervised/results/
 ComputerVision/Keras MNIST/Keras MNIST Recognition.Transfer.2.Model.Best.hdf5
 ComputerVision/FacialRecognition/source/shape_predictor_68_face_landmarks.dat
+Audio/Classification/Data/
+.idea/
